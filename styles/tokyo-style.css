@@ -1,0 +1,197 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#body
+{
+    background-color: rgb(228, 220, 220);
+}
+#wrapper
+{
+    width: 100%;
+}
+#header
+{
+    width: 100%;
+    text-align: right;
+}
+#header img
+{
+    width: 100%;
+}
+#nav
+{
+    width: 95%;
+    position: absolute;
+    margin-top: 2.5%;
+    color: bisque;
+    
+    letter-spacing: 0.15em;
+}
+#nav li
+{
+    display: inline;
+    margin-right: 40px;
+}
+.other-li
+{
+    text-decoration: none;
+    color: bisque;
+}
+.other-li:hover
+{
+    color: darkcyan;
+}
+#current-li
+{
+    color: rgb(226, 49, 49);
+    
+}
+#section1
+{
+    width: 100%;
+    float: left;
+    margin-top: -4px;
+}
+#section1 img
+{
+    width: 40%;
+    float: left;
+}
+#section1 p
+{
+    width: 40%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.5em;
+    margin-top: 8%;
+    margin-left: 12%;
+}
+#section2
+{
+    width: 100%;
+    float: left;
+    border-top: 1px solid black;
+}
+#section2 img
+{
+    width: 40%;
+    float: right;
+}
+#section2 h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4%;
+}
+#section2 p
+{
+    text-align: center;
+    font-size: 40px;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 3%;
+    line-height: 1.5em;
+}
+#section3
+{
+    width: 100%;
+    float: left;
+    border-top: 1px solid black;
+}
+#section3 img
+{
+    width: 40%;
+    float: left;
+}
+#section3 h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4%;
+}
+#section3 p
+{
+    width: 42%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.5em;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#section4
+{
+    width: 100%;
+    float: left;
+    border-top: 1px solid black;
+}
+#section4 img
+{
+    width: 40%;
+    float: right;
+}
+#section4 h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4%;
+}
+#section4 p
+{
+    text-align: center;
+    font-size: 40px;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 3%;
+    line-height: 1.5em;
+}
+#section5
+{
+    width: 100%;
+    float: left;
+    border-top: 1px solid black;
+}
+#section5 img
+{
+    width: 40%;
+    float: left;
+}
+#section5 h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4%;
+}
+#section5 p
+{
+    width: 42%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.5em;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#section6
+{
+    width: 100%;
+}
+#section6 img
+{
+    width: 100%;
+    margin-bottom: -4px; /* it removes the space at the bottom of the page */
+}
+#section6 p
+{
+    width: 97%;
+    position: absolute;
+    color: rgb(231, 29, 73);
+    font-size: 80px;
+    text-align: center;
+    margin-top: 30%;
+    margin-left: 3%;
+    letter-spacing: 0.7em;
+}
